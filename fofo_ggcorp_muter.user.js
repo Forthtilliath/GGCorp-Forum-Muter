@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           GGCorp Forum Muter
-// @description    Permet de ne muter des joueurs sur le forum
+// @description    Permet de muter des joueurs sur le forum
 // @include        http://forums.ggcorp.me/*
 // @version        0.2
 
