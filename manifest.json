@@ -1,6 +1,6 @@
 {
   "name": "GGCorp Forum Muter",
-  "description": "Permet de ne muter des joueurs sur le forum",
+  "description": "Permet de muter des joueurs sur le forum",
   "version": "0.2",
   "manifest_version": 2,
   "icons": {
