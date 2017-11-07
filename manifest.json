@@ -8,10 +8,10 @@
   },
   "app": {
     "urls": [
-      "https://github.com/Forthtilliath/GGCorp-Forum-Muter/blob/master"
+      "https://raw.githubusercontent.com/Forthtilliath/GGCorp-Forum-Muter/master/fofo_ggcorp_muter.user.js"
     ],
     "launch": {
-      "web_url": "https://github.com/Forthtilliath/GGCorp-Forum-Muter/blob/master"
+      "web_url": "https://github.com/Forthtilliath/GGCorp-Forum-Muter/"
     }
   }
 }
