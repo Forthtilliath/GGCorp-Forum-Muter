@@ -8,10 +8,10 @@
   },
   "app": {
     "urls": [
-      ""
+      "https://github.com/Forthtilliath/GGCorp-Forum-Muter"
     ],
     "launch": {
-      "web_url": ""
+      "web_url": "https://github.com/Forthtilliath/GGCorp-Forum-Muter"
     }
   }
 }
