@@ -11,7 +11,7 @@
       "https://raw.githubusercontent.com/Forthtilliath/GGCorp-Forum-Muter/master/fofo_ggcorp_muter.user.js"
     ],
     "launch": {
-      "web_url": "https://github.com/Forthtilliath/GGCorp-Forum-Muter/"
+      "web_url": "https://raw.githubusercontent.com/Forthtilliath/GGCorp-Forum-Muter/master/"
     }
   }
 }
