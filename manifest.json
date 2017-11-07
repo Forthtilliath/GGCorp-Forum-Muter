@@ -1,0 +1,17 @@
+{
+  "name": "GGCorp Forum Muter",
+  "description": "Permet de ne muter des joueurs sur le forum",
+  "version": "0.2",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "app": {
+    "urls": [
+      ""
+    ],
+    "launch": {
+      "web_url": ""
+    }
+  }
+}
